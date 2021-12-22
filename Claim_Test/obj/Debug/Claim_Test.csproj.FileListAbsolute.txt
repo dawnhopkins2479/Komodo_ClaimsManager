@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Test\bin\Debug\Claim_Test.dll
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Test\bin\Debug\Claim_Test.pdb
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Test\obj\Debug\Claim_Test.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Test\obj\Debug\Claim_Test.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Test\obj\Debug\Claim_Test.csproj.CopyComplete
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Test\obj\Debug\Claim_Test.dll
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Test\obj\Debug\Claim_Test.pdb

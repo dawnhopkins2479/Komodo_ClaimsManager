@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Manager\bin\Debug\Claim_Manager.exe.config
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Manager\bin\Debug\Claim_Manager.exe
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Manager\bin\Debug\Claim_Manager.pdb
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Manager\obj\Debug\Claim_Manager.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Manager\obj\Debug\Claim_Manager.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Manager\obj\Debug\Claim_Manager.exe
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Manager\obj\Debug\Claim_Manager.pdb
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Manager\bin\Debug\CLaimItems.dll
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Manager\bin\Debug\CLaimItems.pdb
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\Claim_Manager\obj\Debug\Claim_Manager.csproj.CopyComplete

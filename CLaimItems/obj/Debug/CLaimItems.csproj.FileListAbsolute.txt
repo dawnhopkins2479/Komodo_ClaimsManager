@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\CLaimItems\bin\Debug\CLaimItems.dll
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\CLaimItems\bin\Debug\CLaimItems.pdb
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\CLaimItems\obj\Debug\CLaimItems.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\CLaimItems\obj\Debug\CLaimItems.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\CLaimItems\obj\Debug\CLaimItems.dll
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\CLaimItems\obj\Debug\CLaimItems.pdb

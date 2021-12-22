@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\ClaimQueue\bin\Debug\ClaimQueue.dll
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\ClaimQueue\bin\Debug\ClaimQueue.pdb
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\ClaimQueue\bin\Debug\CLaimItems.dll
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\ClaimQueue\bin\Debug\Claim_Manager.exe
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\ClaimQueue\bin\Debug\CLaimItems.pdb
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\ClaimQueue\bin\Debug\Claim_Manager.pdb
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\ClaimQueue\bin\Debug\Claim_Manager.exe.config
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\ClaimQueue\obj\Debug\ClaimQueue.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\ClaimQueue\obj\Debug\ClaimQueue.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\ClaimQueue\obj\Debug\ClaimQueue.csproj.CopyComplete
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\ClaimQueue\obj\Debug\ClaimQueue.dll
+C:\ElevenFiftyProjects\GoldBadgeFinals\Komodo_Claims\ClaimQueue\obj\Debug\ClaimQueue.pdb
